@@ -25,6 +25,13 @@ To use the project, run the following command:
 [insert usage command, e.g., npm start or python main.py]
 ```
 
+## Zipping the Project
+To zip the project files, run the following command:
+```
+bash scripts/zip_project.sh
+```
+This will create a `project-template.zip` file in the root directory of your project.
+
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
